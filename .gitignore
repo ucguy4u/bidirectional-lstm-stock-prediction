@@ -97,8 +97,7 @@ saved_model/
 learning_curve.png
 
 # Ignore CSV data files
-*.csv
-Nifty 50 minute.csv
+
 
 # Ignore large files and data artifacts
 *.data
